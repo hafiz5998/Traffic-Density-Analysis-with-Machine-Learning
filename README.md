@@ -8,7 +8,7 @@ The initial concept is to implement deep learning architecture for the model cre
 DATASET: Traffic images collected from Malaysia Live Traffic Camera (Jalanow.com)
 
 Unique Approach: For this project, to improve the accuracy of the ML model of Traffic image classification, a Hybrid technique is applied where 
-Deep Learning architecture is used as the feature extractor and combine with traditional machine learning Classifier.
+Deep Learning architecture is used as the feature extractor and combine with traditional machine learning Classifier. The extracted features will be passed to the classifier
 
 Example: DeepLearning(CNN) + SVM
 
